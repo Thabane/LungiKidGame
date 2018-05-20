@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+.panelClass{    
+    text-align: center;
+    width: 50%;
+    height: 250px;
+}
+
+.panelRed{
+    background-color:red;
+}
+.panelGrey{
+    background-color:grey;
+}
+.panelPurple{
+    background-color:purple;
+	    color:white;
+}
+.panelBlack{
+    background-color: black;
+    color:white;
+}
+
+.panelPink{
+    background-color: pink;
+    color:black;
+}
+
+body {
+    background-image: url("pexels-photo-262488.jpeg");
+}
